@@ -1,7 +1,7 @@
 TTAL Textual Theme
 =================================
 
-A clean and modern theme for the <a href="http://www.codeux.com/textual/" target="_blank">Textual IRC client</a>.
+A clean and modern theme for the <a href="http://www.codeux.com/textual/" target="_tab">Textual IRC client</a>.
 
 Based loosely on the theme for Sublime Text 2.
 
@@ -36,6 +36,6 @@ Installation
 
 Links
 -----
-<a href="http://www.twitter.com/danieldbird" target="_blank">www.twitter.com/danieldbird</a>
+<a href="http://www.twitter.com/danieldbird" target="_tab">www.twitter.com/danieldbird</a>
 
-<a href="http://www.macosxtips.co.uk/geeklets/user/history/danieldbird/" target="_blank">My Geektool Geeklets</a>
+<a href="http://www.macosxtips.co.uk/geeklets/user/history/danieldbird/" target="_tab">My Geektool Geeklets</a>

@@ -7,7 +7,7 @@ Based loosely on the Sublime Text 2 text editor theme.
 
 Developed by Daniel Bird.
 
-![Screenshot](https://github.com/danieldbird/Textual-TTAL-Theme/blob/master/Screen%20Shot.png)
+![Screenshot](https://raw.github.com/danieldbird/Textual-TTAL-Theme/master/Screen%20Shot.png)
 
 
 Installation

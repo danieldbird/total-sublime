@@ -36,6 +36,6 @@ Installation
 
 Links
 -----
-<a href="https://www.twitter.com/danieldbird" target="_blank">www.twitter.com/danieldbird</a>
+<a href="http://www.twitter.com/danieldbird" target="_blank">www.twitter.com/danieldbird</a>
 
 <a href="http://www.macosxtips.co.uk/geeklets/user/history/danieldbird/" target="_blank">My Geektool Geeklets</a>

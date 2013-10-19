@@ -71,7 +71,7 @@ body[dir=ltr] .time {
 	color: #999;
 	white-space: nowrap;
 	text-transform:lowercase;
-	float: right;
+	padding-right: 10px;
 }
 
 body[dir=rtl] .time {

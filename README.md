@@ -31,7 +31,7 @@ Installation
 
 1.  Clone the repository to the Textual styles folder using the following command
 
-	$ git clone https://github.com/danieldbird/TotalSublime.git "~/Applications/Textual.app/Contents/Resources/Styles/TotalSublime"
+	$ git clone https://github.com/danieldbird/TotalSublime.git "~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Styles/TotalSublime"
 
 2.  Choose the style from Textual's Preferences -> Style -> Style Dropdown -> TotalSublime
 

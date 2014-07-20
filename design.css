@@ -455,17 +455,17 @@ body .inline_nickname[colornumber='9'] {
 
 body .sender[mtype*=normal][colornumber='10'], 
 body .inline_nickname[colornumber='10'] { 
-	color: #ec4bff; 
+	color: #e85bf9; 
 }
 
 body .sender[mtype*=normal][colornumber='11'], 
 body .inline_nickname[colornumber='11'] { 
-	color: #8b4bff; 
+	color: #9e69ff; 
 }
 
 body .sender[mtype*=normal][colornumber='12'], 
 body .inline_nickname[colornumber='12'] { 
-	color: #4b71ff; 
+	color: #7f99f9; 
 }
 
 body .sender[mtype*=normal][colornumber='13'], 
@@ -510,50 +510,50 @@ body .inline_nickname[colornumber='20'] {
 
 body .sender[mtype*=normal][colornumber='21'], 
 body .inline_nickname[colornumber='21'] { 
-	color: #9d3000;
+	color: #d05e2c;
 }
 
 body .sender[mtype*=normal][colornumber='22'], 
 body .inline_nickname[colornumber='22'] { 
-	color: #9d8900;
+	color: #cab732;
 }
 
 body .sender[mtype*=normal][colornumber='23'], 
 body .inline_nickname[colornumber='23'] { 
-	color: #679d00;
+	color: #97de10;
 }
 
 body .sender[mtype*=normal][colornumber='24'], 
 body .inline_nickname[colornumber='24'] { 
-	color: #0f9d00;
+	color: #95c990;
 }
 
 body .sender[mtype*=normal][colornumber='25'], 
 body .inline_nickname[colornumber='25'] { 
-	color: #009d4e;
+	color: #04bb5f;
 }
 
 body .sender[mtype*=normal][colornumber='26'], 
 body .inline_nickname[colornumber='26'] { 
-	color: #00949d;
+	color: #09c1cc;
 }
 
 body .sender[mtype*=normal][colornumber='27'], 
 body .inline_nickname[colornumber='27'] { 
-	color: #00599d;
+	color: #5baeed;
 }
 
 body .sender[mtype*=normal][colornumber='28'], 
 body .inline_nickname[colornumber='28'] { 
-	color: #4a009d;
+	color: #9d4ef6;
 }
 
 body .sender[mtype*=normal][colornumber='29'], 
 body .inline_nickname[colornumber='29'] { 
-	color: #6b009d;
+	color: #ac69cb;
 }
 
 body .sender[mtype*=normal][colornumber='30'], 
 body .inline_nickname[colornumber='30'] { 
-	color: #90009d;
+	color: #b902c9;
 }

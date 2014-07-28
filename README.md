@@ -7,7 +7,7 @@ Based loosely on the theme for Sublime Text 2.
 
 Developed by Daniel Bird.
 
-![Screenshot](https://raw.github.com/danieldbird/TotalSublime/master/Screen%20Shot.png)
+![Screenshot](https://github.com/danieldbird/tmp/blob/master/TotalSublime.png)
 
 
 Installation
@@ -39,8 +39,11 @@ Installation
 Donate
 ------------
 
-### If you like this, if you use this, consider buying me a coffee.
+### If you like / use this consider buying me a coffee.
 
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TVUY6C9JAKDN2&lc=AU&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">Paypal Donation</a>
+
+BitCoin Donation
 ![Screenshot](https://github.com/danieldbird/tmp/blob/master/BitCoin.png)
 
 Links
@@ -48,5 +51,3 @@ Links
 <a href="http://www.twitter.com/danieldbird" target="_tab">www.twitter.com/danieldbird</a>
 
 <a href="http://www.macosxtips.co.uk/geeklets/user/history/danieldbird/" target="_tab">My Geektool Geeklets</a>
-
-Please donate if you can. Every little bit counts.

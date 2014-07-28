@@ -36,6 +36,13 @@ Installation
 2.  Choose the style from Textual's Preferences -> Style -> Style Dropdown -> TotalSublime
 
 
+Donate
+------------
+
+### If you like this, if you use this, consider buying me a coffee.
+
+![Screenshot](https://github.com/danieldbird/tmp/blob/master/BitCoin.png)
+
 Links
 -----
 <a href="http://www.twitter.com/danieldbird" target="_tab">www.twitter.com/danieldbird</a>

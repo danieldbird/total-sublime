@@ -41,9 +41,9 @@ Donate
 
 ### If you like / use this consider buying me a coffee.
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TVUY6C9JAKDN2&lc=AU&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="_tab">Paypal Donation</a>
+##<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TVUY6C9JAKDN2&lc=AU&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="_tab">Paypal Donation</a>
 
-BitCoin Donation
+##BitCoin Donation
 ![Screenshot](https://github.com/danieldbird/tmp/blob/master/BitCoin.png)
 
 Links

@@ -1,10 +1,10 @@
 # Textual theme: TotalSublime
 
-A natively included theme for the <a href="http://www.codeux.com/textual/" target="_tab">Textual IRC client</a>.
+A native theme for the <a href="http://www.codeux.com/textual/" target="_tab">Textual IRC client</a>.
 
 Based on the Sublime Text editor theme.
 
-![Screenshot](https://github.com/danieldbird/tmp/blob/master/TotalSublime.png)
+![Screenshot](https://raw.githubusercontent.com/danieldbird/assets/master/total-sublime-textual.png)
 
 
 ## Installation
